@@ -1,4 +1,4 @@
-# TrabalhoSTR_4
+# Trabalho de Threads Periódicas
 
 - Neste trabalho foi realizada a implementação de um algoritmo de threads periódicas em C++ com o intuito de analisar seu comportamento
 
