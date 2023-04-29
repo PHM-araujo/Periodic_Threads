@@ -1,6 +1,6 @@
 # Trabalho de Threads Periódicas
 
-- Neste trabalho foi realizada a implementação de um algoritmo de threads periódicas em C++ com o intuito de analisar seu comportamento
+Implementação de um algoritmo de threads periódicas em C++.
 
 ## Guia de Instalação:
 1. Extrair o arquivo zip para o local desejado
